@@ -1,6 +1,6 @@
 First we extract the data fields from the .json
 
-Next we implement a basic processing, based on the next reference: https://pmc.ncbi.nlm.nih.gov/articles/PMC8402314/pdf/sensors-21-05651.pdf
+Next we implement a basic processing, based on the next reference: https://pmc.ncbi.nlm.nih.gov/articles/PMC8402314/pdf/sensors-21-05651.pdf, working with the RR signal
 
 here are the steps:
 
